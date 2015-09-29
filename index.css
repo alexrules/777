@@ -47,7 +47,7 @@ body {
 
 /* Portrait layout (default) */
 .app {
-  background: url("../img/logo.png") no-repeat scroll center 28px / 216px 172px rgba(0, 0, 0, 0);
+  background: url("http://bookingtaxiriga.com/img/logo-book.png") no-repeat scroll center 28px / 216px 172px rgba(0, 0, 0, 0);
   height: 295px;
   left: 50%;
   margin: -115px 0 0 -112px;
